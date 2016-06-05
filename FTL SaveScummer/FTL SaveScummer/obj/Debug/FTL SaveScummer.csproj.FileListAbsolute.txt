@@ -1,0 +1,18 @@
+c:\users\gardner\documents\visual studio 2015\Projects\FTL SaveScummer\FTL SaveScummer\bin\Debug\FTL SaveScummer.exe.config
+c:\users\gardner\documents\visual studio 2015\Projects\FTL SaveScummer\FTL SaveScummer\bin\Debug\FTL SaveScummer.exe
+c:\users\gardner\documents\visual studio 2015\Projects\FTL SaveScummer\FTL SaveScummer\bin\Debug\FTL SaveScummer.pdb
+c:\users\gardner\documents\visual studio 2015\Projects\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL SaveScummer.csprojResolveAssemblyReference.cache
+c:\users\gardner\documents\visual studio 2015\Projects\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL_SaveScummer.FTL.resources
+c:\users\gardner\documents\visual studio 2015\Projects\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL_SaveScummer.Properties.Resources.resources
+c:\users\gardner\documents\visual studio 2015\Projects\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL SaveScummer.csproj.GenerateResource.Cache
+c:\users\gardner\documents\visual studio 2015\Projects\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL SaveScummer.exe
+c:\users\gardner\documents\visual studio 2015\Projects\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL SaveScummer.pdb
+F:\FTL SaveScummer\FTL SaveScummer\bin\Debug\FTL SaveScummer.exe.config
+F:\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL SaveScummer.exe
+F:\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL SaveScummer.pdb
+F:\FTL SaveScummer\FTL SaveScummer\bin\Debug\FTL SaveScummer.exe
+F:\FTL SaveScummer\FTL SaveScummer\bin\Debug\FTL SaveScummer.pdb
+F:\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL SaveScummer.csprojResolveAssemblyReference.cache
+F:\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL_SaveScummer.FTL.resources
+F:\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL_SaveScummer.Properties.Resources.resources
+F:\FTL SaveScummer\FTL SaveScummer\obj\Debug\FTL SaveScummer.csproj.GenerateResource.Cache
